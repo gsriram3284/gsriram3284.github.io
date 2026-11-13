@@ -1,0 +1,1348 @@
+[
+  {
+    "id": "pub-01",
+    "originalIndex": 1,
+    "title": "Order from chaos with adaptive circuits on quantum hardware",
+    "authors": [
+      "Bibek Pokharel",
+      "Haining Pan",
+      "Kemal Aziz",
+      "Luke C. G. Govia",
+      "Sriram Ganeshan",
+      "Thomas Iadecola",
+      "Justin H. Wilson",
+      "Barbara A. Jones",
+      "Abhinav Deshpande",
+      "Jedediah H. Pixley",
+      "Maika Takita"
+    ],
+    "year": 2026,
+    "journal": "Nature Physics",
+    "volume": null,
+    "article": null,
+    "doi": "10.1038/s41567-026-03470-6",
+    "url": "https://doi.org/10.1038/s41567-026-03470-6",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": false,
+    "tags": [
+      "Quantum control",
+      "Quantum chaos"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-02",
+    "originalIndex": 2,
+    "title": "Nonreciprocal Chiral Automata",
+    "authors": [
+      "Andrew A. Allocca",
+      "Armin Rahmani",
+      "Pouyan Ghaemi",
+      "Sriram Ganeshan"
+    ],
+    "year": 2026,
+    "journal": null,
+    "volume": null,
+    "article": null,
+    "doi": null,
+    "url": "https://arxiv.org/abs/2609.35984",
+    "arxiv": "2609.35984",
+    "type": "preprint",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Active matter"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-03",
+    "originalIndex": 3,
+    "title": "Hall viscosity of the Laughlin state on noisy quantum computers",
+    "authors": [
+      "Ammar Kirmani",
+      "Andrew A. Allocca",
+      "Jian-Xin Zhu",
+      "Armin Rahmani",
+      "Sriram Ganeshan",
+      "Pouyan Ghaemi"
+    ],
+    "year": 2026,
+    "journal": "Physical Review B",
+    "volume": "114",
+    "article": "185121",
+    "doi": "10.1103/2g6v-fqbr",
+    "url": "https://doi.org/10.1103/2g6v-fqbr",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Topological matter",
+      "Quantum fluids",
+      "Quantum computing"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-04",
+    "originalIndex": 4,
+    "title": "Korteweg–de Vries dynamics at the edge of a composite boson liquid",
+    "authors": [
+      "Gustavo M. Monteiro",
+      "Sriram Ganeshan"
+    ],
+    "year": 2026,
+    "journal": "Physical Review B",
+    "volume": "114",
+    "article": "084505",
+    "doi": "10.1103/5s1b-3ssb",
+    "url": "https://doi.org/10.1103/5s1b-3ssb",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Topological matter",
+      "Quantum fluids"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-05",
+    "originalIndex": 5,
+    "title": "Lindbladian quantization of mechanical systems with nonholonomic constraints",
+    "authors": [
+      "Daniel Schubring",
+      "Sriram Ganeshan"
+    ],
+    "year": 2026,
+    "journal": null,
+    "volume": null,
+    "article": null,
+    "doi": null,
+    "url": "https://arxiv.org/abs/2607.26146",
+    "arxiv": "2607.26146",
+    "type": "preprint",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Quantum dynamics",
+      "Hydrodynamics"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-06",
+    "originalIndex": 6,
+    "title": "Odd fluids from chiral cellular automata",
+    "authors": [
+      "Andrew A. Allocca",
+      "Shiva Heidari",
+      "Thomas Iadecola",
+      "Armin Rahmani",
+      "Pouyan Ghaemi",
+      "Sriram Ganeshan"
+    ],
+    "year": 2026,
+    "journal": null,
+    "volume": null,
+    "article": null,
+    "doi": null,
+    "url": "https://arxiv.org/abs/2606.19431",
+    "arxiv": "2606.19431",
+    "type": "preprint",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Active matter"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-07",
+    "originalIndex": 7,
+    "title": "Universality of Stochastic Control of Quantum Chaos with Measurement and Feedback",
+    "authors": [
+      "Andrew A. Allocca",
+      "Devesh K. Verma",
+      "Sriram Ganeshan",
+      "Justin H. Wilson"
+    ],
+    "year": 2026,
+    "journal": "Physical Review Letters",
+    "volume": "136",
+    "article": "210401",
+    "doi": "10.1103/xgfv-p42g",
+    "url": "https://doi.org/10.1103/xgfv-p42g",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": false,
+    "tags": [
+      "Quantum control",
+      "Quantum chaos"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-08",
+    "originalIndex": 8,
+    "title": "Measurement and feedback-driven adaptive dynamics in the classical and quantum kicked top",
+    "authors": [
+      "Mahaveer Prasad",
+      "Ahana Chakraborty",
+      "Thomas Iadecola",
+      "Manas Kulkarni",
+      "J. H. Pixley",
+      "Sriram Ganeshan",
+      "Justin H. Wilson"
+    ],
+    "year": 2026,
+    "journal": null,
+    "volume": null,
+    "article": null,
+    "doi": null,
+    "url": "https://arxiv.org/abs/2604.19874",
+    "arxiv": "2604.19874",
+    "type": "preprint",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Quantum control",
+      "Quantum chaos"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-09",
+    "originalIndex": 9,
+    "title": "Quantum geometry of the rotating shallow water model",
+    "authors": [
+      "Sriram Ganeshan",
+      "Alan T. Dorsey"
+    ],
+    "year": 2026,
+    "journal": null,
+    "volume": null,
+    "article": null,
+    "doi": null,
+    "url": "https://arxiv.org/abs/2601.10695",
+    "arxiv": "2601.10695",
+    "type": "preprint",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Quantum geometry"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-10",
+    "originalIndex": 10,
+    "title": "Kardar-Parisi-Zhang Universality at the Edge of Laughlin States",
+    "authors": [
+      "Gustavo M. Monteiro",
+      "Dylan Reynolds",
+      "P. Glorioso",
+      "Sriram Ganeshan"
+    ],
+    "year": 2025,
+    "journal": "Physical Review B",
+    "volume": "111",
+    "article": "L041108",
+    "doi": "10.1103/PhysRevB.111.L041108",
+    "url": "https://doi.org/10.1103/PhysRevB.111.L041108",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Topological matter",
+      "Quantum fluids"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-11",
+    "originalIndex": 11,
+    "title": "Local and nonlocal stochastic control of quantum chaos: Measurement- and control-induced criticality",
+    "authors": [
+      "Haining Pan",
+      "Sriram Ganeshan",
+      "Thomas Iadecola",
+      "Justin H. Wilson",
+      "J. H. Pixley"
+    ],
+    "year": 2024,
+    "journal": "Physical Review B",
+    "volume": "110",
+    "article": "054308",
+    "doi": "10.1103/PhysRevB.110.054308",
+    "url": "https://doi.org/10.1103/PhysRevB.110.054308",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Quantum control",
+      "Quantum chaos"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-12",
+    "originalIndex": 12,
+    "title": "Modulation instability in dispersive parity-broken systems",
+    "authors": [
+      "Sudheesh Srivastava",
+      "Gustavo M. Monteiro",
+      "Sriram Ganeshan"
+    ],
+    "year": 2024,
+    "journal": null,
+    "volume": null,
+    "article": null,
+    "doi": null,
+    "url": "https://arxiv.org/abs/2406.04570",
+    "arxiv": "2406.04570",
+    "type": "preprint",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Active matter"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-13",
+    "originalIndex": 13,
+    "title": "Hydrodynamic Edge Modes and Fragile Surface States of Symmetry Protected Integer Quantum Hall Effect of Bosons",
+    "authors": [
+      "Dylan Reynolds",
+      "Gustavo M. Monteiro",
+      "Sriram Ganeshan"
+    ],
+    "year": 2024,
+    "journal": null,
+    "volume": null,
+    "article": null,
+    "doi": null,
+    "url": "https://arxiv.org/abs/2405.10309",
+    "arxiv": "2405.10309",
+    "type": "preprint",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Topological matter",
+      "Quantum fluids"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-14",
+    "originalIndex": 14,
+    "title": "Topological fluids with boundaries and FQH edge dynamics: A fluid dynamics derivation of the chiral boson action",
+    "authors": [
+      "Gustavo M. Monteiro",
+      "V. P. Nair",
+      "Sriram Ganeshan"
+    ],
+    "year": 2024,
+    "journal": "Physical Review B",
+    "volume": "109",
+    "article": "174525",
+    "doi": "10.1103/PhysRevB.109.174525",
+    "url": "https://doi.org/10.1103/PhysRevB.109.174525",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Topological matter",
+      "Quantum fluids"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-15",
+    "originalIndex": 15,
+    "title": "Seeking a many-body mobility edge with matrix product states in a quasiperiodic model",
+    "authors": [
+      "N. Pomata",
+      "Sriram Ganeshan",
+      "Tzu-Chieh Wei"
+    ],
+    "year": 2023,
+    "journal": "Physical Review B",
+    "volume": "108",
+    "article": "094201",
+    "doi": "10.1103/PhysRevB.108.094201",
+    "url": "https://doi.org/10.1103/PhysRevB.108.094201",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Localization",
+      "Quantum dynamics"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-16",
+    "originalIndex": 16,
+    "title": "Measurement and Feedback Driven Entanglement Transition in the Probabilistic Control of Chaos",
+    "authors": [
+      "Thomas Iadecola",
+      "Sriram Ganeshan",
+      "J. H. Pixley",
+      "Justin H. Wilson"
+    ],
+    "year": 2023,
+    "journal": "Physical Review Letters",
+    "volume": "131",
+    "article": "060403",
+    "doi": "10.1103/PhysRevLett.131.060403",
+    "url": "https://doi.org/10.1103/PhysRevLett.131.060403",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": false,
+    "tags": [
+      "Quantum control",
+      "Quantum chaos"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-17",
+    "originalIndex": 17,
+    "title": "Hamiltonian structure of 2D fluid dynamics with broken parity",
+    "authors": [
+      "Gustavo M. Monteiro",
+      "Alexander G. Abanov",
+      "Sriram Ganeshan"
+    ],
+    "year": 2023,
+    "journal": "SciPost Physics",
+    "volume": "14",
+    "article": "103",
+    "doi": "10.21468/SciPostPhys.14.5.103",
+    "url": "https://doi.org/10.21468/SciPostPhys.14.5.103",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Active matter"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-18",
+    "originalIndex": 18,
+    "title": "Coastal Kelvin Mode and the Fractional Quantum Hall Edge",
+    "authors": [
+      "Gustavo M. Monteiro",
+      "Sriram Ganeshan"
+    ],
+    "year": 2023,
+    "journal": null,
+    "volume": null,
+    "article": null,
+    "doi": null,
+    "url": "https://arxiv.org/abs/2303.05669",
+    "arxiv": "2303.05669",
+    "type": "preprint",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Topological matter",
+      "Quantum fluids"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-19",
+    "originalIndex": 19,
+    "title": "Three-Dimensional Odd Viscosity in Ferrofluids with Vorticity-Magnetization Coupling",
+    "authors": [
+      "Dylan Reynolds",
+      "Gustavo M. Monteiro",
+      "Sriram Ganeshan"
+    ],
+    "year": 2023,
+    "journal": null,
+    "volume": null,
+    "article": null,
+    "doi": null,
+    "url": "https://arxiv.org/abs/2301.07096",
+    "arxiv": "2301.07096",
+    "type": "preprint",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Active matter"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-20",
+    "originalIndex": 20,
+    "title": "Hele-Shaw flow for parity odd three-dimensional fluids",
+    "authors": [
+      "Dylan Reynolds",
+      "Gustavo M. Monteiro",
+      "Sriram Ganeshan"
+    ],
+    "year": 2022,
+    "journal": "Physical Review Fluids",
+    "volume": "7",
+    "article": "114201",
+    "doi": "10.1103/PhysRevFluids.7.114201",
+    "url": "https://doi.org/10.1103/PhysRevFluids.7.114201",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": true,
+    "tags": [
+      "Hydrodynamics",
+      "Active matter"
+    ],
+    "notes": [
+      "Editor's Suggestion"
+    ]
+  },
+  {
+    "id": "pub-21",
+    "originalIndex": 21,
+    "title": "Ungappable edge theories with finite dimensional Hilbert spaces",
+    "authors": [
+      "Sriram Ganeshan",
+      "M. Levin"
+    ],
+    "year": 2022,
+    "journal": "Physical Review B",
+    "volume": "105",
+    "article": "155137",
+    "doi": "10.1103/PhysRevB.105.155137",
+    "url": "https://doi.org/10.1103/PhysRevB.105.155137",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": true,
+    "tags": [
+      "Topological matter",
+      "Quantum dynamics"
+    ],
+    "notes": [
+      "Editor's Suggestion"
+    ]
+  },
+  {
+    "id": "pub-22",
+    "originalIndex": 22,
+    "title": "Non-linear shallow water dynamics with odd viscosity",
+    "authors": [
+      "Gustavo M. Monteiro",
+      "Sriram Ganeshan"
+    ],
+    "year": 2021,
+    "journal": "Physical Review Fluids",
+    "volume": "6",
+    "article": "L092401",
+    "doi": "10.1103/PhysRevFluids.6.L092401",
+    "url": "https://doi.org/10.1103/PhysRevFluids.6.L092401",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Active matter"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-23",
+    "originalIndex": 23,
+    "title": "Interactions and Mobility Edges: Observing the Generalized Aubry-André Model",
+    "authors": [
+      "Fangzhao Alex An",
+      "Karmela Padavić",
+      "Eric J. Meier",
+      "Suraj Hegde",
+      "Sriram Ganeshan",
+      "J. H. Pixley",
+      "Smitha Vishveshwara",
+      "Bryce Gadway"
+    ],
+    "year": 2021,
+    "journal": "Physical Review Letters",
+    "volume": "126",
+    "article": "040603",
+    "doi": "10.1103/PhysRevLett.126.040603",
+    "url": "https://doi.org/10.1103/PhysRevLett.126.040603",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": true,
+    "tags": [
+      "Localization",
+      "Quantum dynamics"
+    ],
+    "notes": [
+      "Editor's Suggestion"
+    ]
+  },
+  {
+    "id": "pub-24",
+    "originalIndex": 24,
+    "title": "Floquet dynamics of a disordered band with a single delocalized state",
+    "authors": [
+      "Sriram Ganeshan",
+      "Kartiek Agarwal",
+      "R. N. Bhatt"
+    ],
+    "year": 2020,
+    "journal": "Physical Review B",
+    "volume": "102",
+    "article": "134212",
+    "doi": "10.1103/PhysRevB.102.134212",
+    "url": "https://doi.org/10.1103/PhysRevB.102.134212",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Localization",
+      "Quantum dynamics"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-25",
+    "originalIndex": 25,
+    "title": "Lyapunov exponents and entanglement entropy transition on the noncommutative hyperbolic plane",
+    "authors": [
+      "Sriram Ganeshan",
+      "Alexios P. Polychronakos"
+    ],
+    "year": 2020,
+    "journal": "SciPost Physics Core",
+    "volume": "3",
+    "article": "003",
+    "doi": "10.21468/SciPostPhysCore.3.1.003",
+    "url": "https://doi.org/10.21468/SciPostPhysCore.3.1.003",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Quantum chaos",
+      "Quantum dynamics"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-26",
+    "originalIndex": 26,
+    "title": "Hydrodynamics of two-dimensional compressible fluid with broken parity: variational principle and free surface dynamics in the absence of dissipation",
+    "authors": [
+      "Alexander G. Abanov",
+      "Tankut Can",
+      "Sriram Ganeshan",
+      "Gustavo M. Monteiro"
+    ],
+    "year": 2020,
+    "journal": "Physical Review Fluids",
+    "volume": "5",
+    "article": "104802",
+    "doi": "10.1103/PhysRevFluids.5.104802",
+    "url": "https://doi.org/10.1103/PhysRevFluids.5.104802",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Active matter"
+    ],
+    "notes": [
+      "Equal contribution"
+    ]
+  },
+  {
+    "id": "pub-27",
+    "originalIndex": 27,
+    "title": "Universal Level Statistics of the Out-of-Time-Ordered Operator",
+    "authors": [
+      "Efim B. Rozenbaum",
+      "Sriram Ganeshan",
+      "Victor Galitski"
+    ],
+    "year": 2019,
+    "journal": "Physical Review B",
+    "volume": "100",
+    "article": "035112",
+    "doi": "10.1103/PhysRevB.100.035112",
+    "url": "https://doi.org/10.1103/PhysRevB.100.035112",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": true,
+    "tags": [
+      "Quantum chaos",
+      "Quantum dynamics"
+    ],
+    "notes": [
+      "Editor's Suggestion",
+      "Equal contribution"
+    ]
+  },
+  {
+    "id": "pub-28",
+    "originalIndex": 28,
+    "title": "Piecewise-terminated spherical topological insulator as a virtual breadboard for Majorana circuitry",
+    "authors": [
+      "Adam C. Durst",
+      "Sriram Ganeshan"
+    ],
+    "year": 2018,
+    "journal": "Physical Review B",
+    "volume": "98",
+    "article": "155401",
+    "doi": "10.1103/PhysRevB.98.155401",
+    "url": "https://doi.org/10.1103/PhysRevB.98.155401",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Topological matter"
+    ],
+    "notes": [
+      "Minor contribution"
+    ]
+  },
+  {
+    "id": "pub-29",
+    "originalIndex": 29,
+    "title": "Odd surface waves in two-dimensional incompressible fluids",
+    "authors": [
+      "Alexander G. Abanov",
+      "Tankut Can",
+      "Sriram Ganeshan"
+    ],
+    "year": 2018,
+    "journal": "SciPost Physics",
+    "volume": "5",
+    "article": "010",
+    "doi": "10.21468/SciPostPhys.5.1.010",
+    "url": "https://doi.org/10.21468/SciPostPhys.5.1.010",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Active matter"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-30",
+    "originalIndex": 30,
+    "title": "Eigenstate phases with finite on-site non-Abelian symmetry",
+    "authors": [
+      "Abhishodh Prakash",
+      "Sriram Ganeshan",
+      "Lukasz Fidkowski",
+      "Tzu-Chieh Wei"
+    ],
+    "year": 2017,
+    "journal": "Physical Review B",
+    "volume": "96",
+    "article": "165136",
+    "doi": "10.1103/PhysRevB.96.165136",
+    "url": "https://doi.org/10.1103/PhysRevB.96.165136",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Localization",
+      "Topological matter"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-31",
+    "originalIndex": 31,
+    "title": "Localization and transport in a strongly driven Anderson insulator",
+    "authors": [
+      "Kartiek Agarwal",
+      "Sriram Ganeshan",
+      "R. N. Bhatt"
+    ],
+    "year": 2017,
+    "journal": "Physical Review B",
+    "volume": "96",
+    "article": "014201",
+    "doi": "10.1103/PhysRevB.96.014201",
+    "url": "https://doi.org/10.1103/PhysRevB.96.014201",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Localization",
+      "Quantum dynamics"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-32",
+    "originalIndex": 32,
+    "title": "Odd viscosity in two-dimensional incompressible fluids",
+    "authors": [
+      "Sriram Ganeshan",
+      "Alexander G. Abanov"
+    ],
+    "year": 2017,
+    "journal": "Physical Review Fluids",
+    "volume": "2",
+    "article": "094101",
+    "doi": "10.1103/PhysRevFluids.2.094101",
+    "url": "https://doi.org/10.1103/PhysRevFluids.2.094101",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Active matter"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-33",
+    "originalIndex": 33,
+    "title": "Many-body localization in incommensurate models with a mobility edge",
+    "authors": [
+      "Dong-Ling Deng",
+      "Sriram Ganeshan",
+      "Xiaopeng Li",
+      "Ranjan Modak",
+      "Subroto Mukerjee",
+      "J. H. Pixley"
+    ],
+    "year": 2017,
+    "journal": "Annalen der Physik",
+    "volume": "529",
+    "article": "1600399",
+    "doi": "10.1002/andp.201600399",
+    "url": "https://doi.org/10.1002/andp.201600399",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Localization",
+      "Quantum dynamics"
+    ],
+    "notes": [
+      "Review article"
+    ]
+  },
+  {
+    "id": "pub-34",
+    "originalIndex": 34,
+    "title": "Lyapunov Exponent and Four-Point Correlator’s Growth Rate in a Chaotic System",
+    "authors": [
+      "Efim B. Rozenbaum",
+      "Sriram Ganeshan",
+      "Victor Galitski"
+    ],
+    "year": 2017,
+    "journal": "Physical Review Letters",
+    "volume": "118",
+    "article": "086801",
+    "doi": "10.1103/PhysRevLett.118.086801",
+    "url": "https://doi.org/10.1103/PhysRevLett.118.086801",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": false,
+    "tags": [
+      "Quantum chaos",
+      "Quantum dynamics"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-35",
+    "originalIndex": 35,
+    "title": "Exactly soluble model of boundary degeneracy",
+    "authors": [
+      "Sriram Ganeshan",
+      "Alexey V. Gorshkov",
+      "Victor Gurarie",
+      "Victor M. Galitski"
+    ],
+    "year": 2017,
+    "journal": "Physical Review B",
+    "volume": "95",
+    "article": "045309",
+    "doi": "10.1103/PhysRevB.95.045309",
+    "url": "https://doi.org/10.1103/PhysRevB.95.045309",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Topological matter"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-36",
+    "originalIndex": 36,
+    "title": "Quantum non-ergodicity and fermion localization in a system with a single-particle mobility edge",
+    "authors": [
+      "Xiaopeng Li",
+      "J. H. Pixley",
+      "Dong-Ling Deng",
+      "Sriram Ganeshan",
+      "S. Das Sarma"
+    ],
+    "year": 2016,
+    "journal": "Physical Review B",
+    "volume": "93",
+    "article": "184204",
+    "doi": "10.1103/PhysRevB.93.184204",
+    "url": "https://doi.org/10.1103/PhysRevB.93.184204",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": true,
+    "tags": [
+      "Localization",
+      "Quantum dynamics"
+    ],
+    "notes": [
+      "Editor's Suggestion"
+    ]
+  },
+  {
+    "id": "pub-37",
+    "originalIndex": 37,
+    "title": "Formalism for the solution of quadratic Hamiltonians with large cosine terms",
+    "authors": [
+      "Sriram Ganeshan",
+      "Michael Levin"
+    ],
+    "year": 2016,
+    "journal": "Physical Review B",
+    "volume": "93",
+    "article": "075118",
+    "doi": "10.1103/PhysRevB.93.075118",
+    "url": "https://doi.org/10.1103/PhysRevB.93.075118",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Topological matter",
+      "Quantum dynamics"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-38",
+    "originalIndex": 38,
+    "title": "Dynamical many-body localization in an integrable model",
+    "authors": [
+      "Aydin Cem Keser",
+      "Sriram Ganeshan",
+      "Gil Refael",
+      "Victor Galitski"
+    ],
+    "year": 2016,
+    "journal": "Physical Review B",
+    "volume": "94",
+    "article": "085120",
+    "doi": "10.1103/PhysRevB.94.085120",
+    "url": "https://doi.org/10.1103/PhysRevB.94.085120",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Localization",
+      "Quantum dynamics"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-40",
+    "originalIndex": 40,
+    "title": "Measurement of topological invariants in a 2D photonic system",
+    "authors": [
+      "Sunil Mittal",
+      "Sriram Ganeshan",
+      "Jingyun Fan",
+      "Abolhassan Vaezi",
+      "Mohammad Hafezi"
+    ],
+    "year": 2016,
+    "journal": "Nature Photonics",
+    "volume": "10",
+    "article": "180–183",
+    "doi": "10.1038/nphoton.2016.10",
+    "url": "https://doi.org/10.1038/nphoton.2016.10",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": false,
+    "tags": [
+      "Topological matter",
+      "Photonics"
+    ],
+    "notes": [
+      "Featured on the cover of Nature Photonics"
+    ]
+  },
+  {
+    "id": "pub-39",
+    "originalIndex": 39,
+    "title": "Parafermionic zero modes in ultracold bosonic systems",
+    "authors": [
+      "M. F. Maghrebi",
+      "Sriram Ganeshan",
+      "D. J. Clarke",
+      "A. V. Gorshkov",
+      "Jay D. Sau"
+    ],
+    "year": 2015,
+    "journal": "Physical Review Letters",
+    "volume": "115",
+    "article": "065301",
+    "doi": "10.1103/PhysRevLett.115.065301",
+    "url": "https://doi.org/10.1103/PhysRevLett.115.065301",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": false,
+    "tags": [
+      "Topological matter"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-41",
+    "originalIndex": 41,
+    "title": "Many body localization and quantum non-ergodicity in a model with a single-particle mobility edge",
+    "authors": [
+      "Xiaopeng Li",
+      "Sriram Ganeshan",
+      "J. H. Pixley",
+      "S. Das Sarma"
+    ],
+    "year": 2015,
+    "journal": "Physical Review Letters",
+    "volume": "115",
+    "article": "186601",
+    "doi": "10.1103/PhysRevLett.115.186601",
+    "url": "https://doi.org/10.1103/PhysRevLett.115.186601",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": false,
+    "tags": [
+      "Localization",
+      "Quantum dynamics"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-42",
+    "originalIndex": 42,
+    "title": "Nearest neighbor tight binding models with an exact mobility edge in one dimension",
+    "authors": [
+      "Sriram Ganeshan",
+      "J. H. Pixley",
+      "S. Das Sarma"
+    ],
+    "year": 2015,
+    "journal": "Physical Review Letters",
+    "volume": "114",
+    "article": "146601",
+    "doi": "10.1103/PhysRevLett.114.146601",
+    "url": "https://doi.org/10.1103/PhysRevLett.114.146601",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": false,
+    "tags": [
+      "Localization"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-43",
+    "originalIndex": 43,
+    "title": "Constructing a Weyl semimetal by stacking one dimensional topological phases",
+    "authors": [
+      "Sriram Ganeshan",
+      "S. Das Sarma"
+    ],
+    "year": 2015,
+    "journal": "Physical Review B",
+    "volume": "91",
+    "article": "125438",
+    "doi": "10.1103/PhysRevB.91.125438",
+    "url": "https://doi.org/10.1103/PhysRevB.91.125438",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Topological matter"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-44",
+    "originalIndex": 44,
+    "title": "Critical integer quantum hall topology and a topological quantum phase transition in the Maryland Model",
+    "authors": [
+      "Sriram Ganeshan",
+      "K. Kechedzhi",
+      "S. Das Sarma"
+    ],
+    "year": 2014,
+    "journal": "Physical Review B",
+    "volume": "90",
+    "article": "041405(R)",
+    "doi": "10.1103/PhysRevB.90.041405",
+    "url": "https://doi.org/10.1103/PhysRevB.90.041405",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Topological matter",
+      "Localization"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-45",
+    "originalIndex": 45,
+    "title": "Exact Classification of Landau-Majorana-Stückelberg-Zener Resonances by Floquet Determinants",
+    "authors": [
+      "Sriram Ganeshan",
+      "Edwin Barnes",
+      "S. Das Sarma"
+    ],
+    "year": 2013,
+    "journal": "Physical Review Letters",
+    "volume": "111",
+    "article": "130405",
+    "doi": "10.1103/PhysRevLett.111.130405",
+    "url": "https://doi.org/10.1103/PhysRevLett.111.130405",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": false,
+    "tags": [
+      "Quantum dynamics"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-46",
+    "originalIndex": 46,
+    "title": "Topological Zero-Energy Modes in Gapless Commensurate Aubry-André-Harper Models",
+    "authors": [
+      "Sriram Ganeshan",
+      "Kai Sun",
+      "S. Das Sarma"
+    ],
+    "year": 2013,
+    "journal": "Physical Review Letters",
+    "volume": "110",
+    "article": "180403",
+    "doi": "10.1103/PhysRevLett.110.180403",
+    "url": "https://doi.org/10.1103/PhysRevLett.110.180403",
+    "arxiv": null,
+    "type": "published",
+    "selected": true,
+    "editorsSuggestion": false,
+    "tags": [
+      "Topological matter",
+      "Localization"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-47",
+    "originalIndex": 47,
+    "title": "Simulation of quantum zero-point effects in water using a frequency-dependent thermostat",
+    "authors": [
+      "Sriram Ganeshan",
+      "R. Ramírez",
+      "M. V. Fernández-Serra"
+    ],
+    "year": 2013,
+    "journal": "Physical Review B",
+    "volume": "87",
+    "article": "134207",
+    "doi": "10.1103/PhysRevB.87.134207",
+    "url": "https://doi.org/10.1103/PhysRevB.87.134207",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Molecular physics",
+      "Quantum dynamics"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-48",
+    "originalIndex": 48,
+    "title": "FQHE interferometers in strong tunneling regime. The role of compactness of edge fields",
+    "authors": [
+      "Sriram Ganeshan",
+      "Alexander G. Abanov",
+      "D. A. Averin"
+    ],
+    "year": 2012,
+    "journal": "Physical Review B",
+    "volume": "86",
+    "article": "235309",
+    "doi": "10.1103/PhysRevB.86.235309",
+    "url": "https://doi.org/10.1103/PhysRevB.86.235309",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Topological matter",
+      "Quantum fluids"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-49",
+    "originalIndex": 49,
+    "title": "Fluctuation Relations for Current Components in mesoscopic Electric Circuits",
+    "authors": [
+      "Sriram Ganeshan",
+      "N. A. Sinitsyn"
+    ],
+    "year": 2011,
+    "journal": "Physical Review B",
+    "volume": "84",
+    "article": "245405",
+    "doi": "10.1103/PhysRevB.84.245405",
+    "url": "https://doi.org/10.1103/PhysRevB.84.245405",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Quantum dynamics"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-50",
+    "originalIndex": 50,
+    "title": "Quasiparticle scattering from vortices in d-wave superconductors. II. Berry phase contribution",
+    "authors": [
+      "Sriram Ganeshan",
+      "Manas Kulkarni",
+      "Adam C. Durst"
+    ],
+    "year": 2011,
+    "journal": "Physical Review B",
+    "volume": "84",
+    "article": "064503",
+    "doi": "10.1103/PhysRevB.84.064503",
+    "url": "https://doi.org/10.1103/PhysRevB.84.064503",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Topological matter"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-51",
+    "originalIndex": 51,
+    "title": "Quasiparticle scattering from vortices in d-wave superconductors. I. Superflow contribution",
+    "authors": [
+      "Manas Kulkarni",
+      "Sriram Ganeshan",
+      "Adam C. Durst"
+    ],
+    "year": 2011,
+    "journal": "Physical Review B",
+    "volume": "84",
+    "article": "064502",
+    "doi": "10.1103/PhysRevB.84.064502",
+    "url": "https://doi.org/10.1103/PhysRevB.84.064502",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Topological matter"
+    ],
+    "notes": []
+  },
+  {
+    "id": "pub-52",
+    "originalIndex": 52,
+    "title": "The role of hydrogen bonding in water–metal interactions",
+    "authors": [
+      "Adrien Poissier",
+      "Sriram Ganeshan",
+      "M. V. Fernández-Serra"
+    ],
+    "year": 2011,
+    "journal": "Physical Chemistry Chemical Physics",
+    "volume": "13",
+    "article": "3375–3384",
+    "doi": "10.1039/C0CP00994F",
+    "url": "https://doi.org/10.1039/C0CP00994F",
+    "arxiv": null,
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Molecular physics"
+    ],
+    "notes": []
+  }
+]
