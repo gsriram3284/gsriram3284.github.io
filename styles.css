@@ -36,3 +36,11 @@
 @media(max-width:420px){.paper-figure-link{height:225px;padding:10px}.paper-slide-title{font-size:20px;min-height:6.1em}.paper-dot{width:23px}.paper-carousel-controls{gap:6px}}
 
 .about-grid>div:first-child>.eyebrow+.about-profile{margin-top:0}
+
+/* Official funding-agency identity, with its original aspect ratio and whitespace. */
+.funding-intro{display:flex;align-items:center;gap:18px;max-width:440px}
+.funding-logo{display:block;flex:0 0 132px;line-height:0}
+.funding-logo img{display:block;width:132px;height:auto}
+.funding-agency{display:block;font:600 11px/1.5 var(--sans);color:var(--teal);margin-bottom:7px}
+.funding-intro p{max-width:290px;margin:0}
+@media(max-width:760px){.funding-intro{margin-top:20px;max-width:100%;gap:14px}.funding-logo{flex-basis:112px}.funding-logo img{width:112px}.funding-agency{font-size:10px}.funding-intro p{margin-top:0;font-size:12px}}
