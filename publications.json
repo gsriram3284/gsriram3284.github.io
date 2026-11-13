@@ -137,6 +137,32 @@
     "notes": []
   },
   {
+    "id": "pub-13",
+    "originalIndex": 13,
+    "title": "Hydrodynamic edge modes and fragile surface states of symmetry-protected integer quantum Hall effect of bosons",
+    "authors": [
+      "Dylan Reynolds",
+      "Gustavo M. Monteiro",
+      "Sriram Ganeshan"
+    ],
+    "year": 2026,
+    "journal": "Physical Review B",
+    "volume": "114",
+    "article": "055106",
+    "doi": "10.1103/h5py-sxyq",
+    "url": "https://doi.org/10.1103/h5py-sxyq",
+    "arxiv": "2405.10309",
+    "type": "published",
+    "selected": false,
+    "editorsSuggestion": false,
+    "tags": [
+      "Hydrodynamics",
+      "Topological matter",
+      "Quantum fluids"
+    ],
+    "notes": []
+  },
+  {
     "id": "pub-06",
     "originalIndex": 6,
     "title": "Odd fluids from chiral cellular automata",
@@ -319,32 +345,6 @@
     "tags": [
       "Hydrodynamics",
       "Active matter"
-    ],
-    "notes": []
-  },
-  {
-    "id": "pub-13",
-    "originalIndex": 13,
-    "title": "Hydrodynamic Edge Modes and Fragile Surface States of Symmetry Protected Integer Quantum Hall Effect of Bosons",
-    "authors": [
-      "Dylan Reynolds",
-      "Gustavo M. Monteiro",
-      "Sriram Ganeshan"
-    ],
-    "year": 2024,
-    "journal": null,
-    "volume": null,
-    "article": null,
-    "doi": null,
-    "url": "https://arxiv.org/abs/2405.10309",
-    "arxiv": "2405.10309",
-    "type": "preprint",
-    "selected": false,
-    "editorsSuggestion": false,
-    "tags": [
-      "Hydrodynamics",
-      "Topological matter",
-      "Quantum fluids"
     ],
     "notes": []
   },
