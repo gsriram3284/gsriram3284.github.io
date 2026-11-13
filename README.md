@@ -12,7 +12,7 @@ Publish the `main` branch from the repository root (`/`) in Settings → Pages. 
 - `publications.json`: publication metadata.
 - `favicon.svg`: site icon.
 
-The portrait and original paper figures are served from Wix Media URLs. Paper links identify the original publications and figure sources.
+The portrait and all original paper figures are stored directly in this repository. Paper links identify the original publications and figure sources. No external website host is needed for the images, styles, scripts, CV, or publication data.
 
 Published website: https://gsriram3284.github.io/
 
